@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.o
+*.d
+
+# IDE and editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Misc
+*.log
+*.tmp
+
+# Temporary CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
